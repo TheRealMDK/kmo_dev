@@ -38,6 +38,7 @@ MIDDLEWARE = [
 ]
 
 CORS_ALLOWED_ORIGINS = [
+    "https://kmo-dev.vercel.app",
     "http://192.168.1.95:5173",
     "http://0.0.0.0:5173",
     "http://localhost:5173",
